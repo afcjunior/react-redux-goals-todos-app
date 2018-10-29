@@ -4,4 +4,4 @@ These items are optimistically added to the view and then persisted through a (f
 
 If something goes wrong with the action attempted, the process is undone and the user is alerted.
 
-The only purpose was to learn react and redux, so I completely ignored the CSS. Will style it better in the future. 
+The only purpose of this was to learn redux (and using it with react), so I completely ignored the CSS. Will style it better in the future. 
